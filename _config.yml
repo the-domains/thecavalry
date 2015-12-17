@@ -1,7 +1,7 @@
 name: TheCavalry
 favicon: null
-layout_spectrum: 0.025945308385416865
-typography_spectrum: 0.1485979100689292
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.19392051710747182
+    - '#ffffff'
+    - '#9f9f9f'
+    - '#a00000'
+    - '#0e0e0e'
+    - '#676767'
+  brandStrength: 1
   lightness: 0.33495487412437797
-  saturation: 0.5164503233972937
+  saturation: 0
   rhythmicContrast: 0.16549963131546974
 purpose: []
